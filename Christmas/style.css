@@ -1,0 +1,36 @@
+
+    
+
+h1{
+    font-family: Bebas Neue,serif  ;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    text-align: justify;
+    text-decoration:;
+    text-transform: capitalize ;
+    letter-spacing: 1px;
+    word-spacing: 20px;
+    direction: ltr ;
+    
+     
+}
+
+p{
+    
+    font-size: 15px;
+    color: red;
+    text-align: justify;
+    text-indent: px;
+    line-height: px;
+    text-shadow:  ;
+    text-transform: capitalize ;
+
+
+
+}
+*{
+    color: red;
+    margin: 0px;
+    padding: 0px;
+}

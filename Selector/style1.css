@@ -1,0 +1,12 @@
+/*p~h1{
+    color: red;
+}*/
+/*p+h1 {
+    color: rgb(25, 160, 25);
+}*/
+/*.baba > h1{
+    color: blue;
+}*/
+.baba h1 {
+    color: brown;
+}

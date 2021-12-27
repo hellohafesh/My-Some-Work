@@ -1,0 +1,36 @@
+/*css selector*/ 
+/*universal selector*/
+*{
+    color: red;
+    margin: 0;
+    padding: 0px;
+}
+/*tag selector */
+h1{
+    color: green;
+}
+/* class sector*/
+.odd{
+    text-transform: uppercase;
+    color: rgb(18, 28, 175);
+}
+.heading{
+    color: hotpink;
+}
+
+/* id setector*/
+#heading{
+    color: rgb(19, 12, 24);
+}
+/* attribute selector*/
+
+[type="submit"]
+{
+    color: rgb(13, 14, 13);
+}
+
+
+
+.main{
+    color: mediumseagreen;
+}
